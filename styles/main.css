@@ -1323,7 +1323,7 @@
   border-radius: 0.1875rem;
   padding: 11px 22px;
   cursor: pointer;
-  background-color: #888;
+  background-color: #4995ff;
   color: #FFFFFF;
 }
 
@@ -2891,6 +2891,11 @@ p {
 
 .description p, p.description {
   font-size: 1.14em;
+}
+
+.sectiontitle {
+  font-weight: 700;
+  color: #ffffff;
 }
 
 .title {
@@ -4624,7 +4629,7 @@ Created using IcoMoon - icomoon.io
 
 .card {
   border: 0;
-  border-radius: 0.1875rem;
+  border-radius: 0.5rem;
   display: inline-block;
   position: relative;
   overflow: hidden;
@@ -4729,10 +4734,11 @@ Created using IcoMoon - icomoon.io
 
 .footer {
   padding: 24px 0;
+  background-color: rgb(88, 88, 88);
 }
 
 .footer.footer-default {
-  background-color: #f2f2f2;
+  background-color: rgb(88, 88, 88);
 }
 
 .footer nav {
@@ -5110,7 +5116,7 @@ Created using IcoMoon - icomoon.io
 .section {
   padding: 70px 0;
   position: relative;
-  background: #FFFFFF;
+  background: rgb(24, 0, 68);
 }
 
 .section .row + .category {
@@ -6884,6 +6890,7 @@ Created using IcoMoon - icomoon.io
   position: relative;
   overflow: hidden;
   text-align: center;
+  border-radius: 1rem;
 }
 
 .gallery .cc-porfolio-image figure img {
