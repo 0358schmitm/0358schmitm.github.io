@@ -1,2 +1,2 @@
-# 0358schmitm.github.io
+# holy-schmitt.info
 Personal Resume Practice
